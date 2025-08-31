@@ -41,7 +41,7 @@ Local File Inclusion occurs when a web application dynamically loads files based
 
 In this lab:  
 
-- The server mislabels responses (e.g., returning `/etc/passwd` with `Content-Type: image/jpeg`)  
+- The server mislabels responses (returning `/etc/passwd` with `Content-Type: image/jpeg`)  
 - Attackers can request arbitrary files from the system  
 - This results in the disclosure of **sensitive information** such as usernames and service accounts  
 
