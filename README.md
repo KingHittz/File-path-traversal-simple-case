@@ -103,4 +103,3 @@ mysql:x:106:107:MySQL Server:/nonexistent:/bin/false
 ## References
 
 * [OWASP: Local File Inclusion](https://owasp.org/www-community/attacks/Path_Traversal)  
-* [CWE-98: Improper Control of Filename for Include/Req]()*
